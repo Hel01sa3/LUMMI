@@ -1,6 +1,0 @@
-# Testes no computador (g++ 13, mock do Arduino)
-RESULTADO: todos os testes passaram
-RESULTADO: simulacao do sketch passou
---- ultimas linhas do Serial simulado ---
-Botoes: A=iniciar/pausar/continuar | B(segurar)=reiniciar | C=interrupcao
-Serial: s=A  r=B  i=C  t=status  c=varrer I2C  h=ajuda
