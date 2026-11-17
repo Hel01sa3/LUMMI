@@ -1,0 +1,21 @@
+# Build do frontend — 2026-11-02 (Node v22.22.2, npm 10.9.7)
+$ npm install
++-- @vitejs/plugin-react@4.7.0
++-- react-dom@18.3.1
++-- react@18.3.1
+`-- vite@5.4.21
+
+$ npm run build
+
+> lummi-interface@0.1.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 38 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.56 kB │ gzip:  0.38 kB
+dist/assets/index-wsZX2ljY.css    5.21 kB │ gzip:  1.83 kB
+dist/assets/index-DbwY9gM0.js   148.99 kB │ gzip: 48.31 kB
+✓ built in 1.59s
