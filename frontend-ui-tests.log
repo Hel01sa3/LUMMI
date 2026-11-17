@@ -1,0 +1,12 @@
+# Testes de interface (vitest 2 + jsdom, em CÓPIA descartável; não estão no projeto)
+
+ RUN  v2.1.9 /home/claude/uitest
+
+ ✓ src/ui.test.jsx (6 tests) 1728ms
+   ✓ interface LUMMI > botões +/- ajustam foco (passo 5) e pausa (passo 1) respeitando limites 1172ms
+
+ Test Files  1 passed (1)
+      Tests  6 passed (6)
+   Start at  21:58:56
+   Duration  3.20s (transform 172ms, setup 0ms, collect 370ms, tests 1.73s, environment 798ms, prepare 94ms)
+
